@@ -1,0 +1,10 @@
+# Ignorar archivos y directorios comunes
+node_modules/
+*.log
+*.swp
+*.tmp
+.DS_Store
+.vscode/
+
+# Ignorar el archivo .env
+.env
